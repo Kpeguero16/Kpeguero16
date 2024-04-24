@@ -7,6 +7,7 @@ Computer Science student | Software Developer
 I am an aspiring Software Developer current studying Computer Science at Florida International University.
 
 * 🌍  I'm based in Miami
+* 🖥️  See my portfolio at [kpeguero16.github.io/Portfolio](http://https://kpeguero16.github.io/Portfolio/)
 * ✉️  You can contact me at [kpegu003@fiu.edu](mailto:kpegu003@fiu.edu)
 * 🧠  I'm learning NextJS and Tailwind CSS
 
