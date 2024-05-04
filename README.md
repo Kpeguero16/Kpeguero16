@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khalil Peguero
 ======================================================================================================================================
 
-Computer Science student | Software Developer
+Computer Science student | Software Engineering Intern @ Domus Care Solutions
 ---------------------------------------------
 
 I am an aspiring Software Developer current studying Computer Science at Florida International University.
 
-* 🌍  I'm based in Miami
+* 🌍  I'm based in Miami, Florida
 * 🖥️  See my portfolio at [khalilpeguero.netlify.app/](https://khalilpeguero.netlify.app/)
 * ✉️  You can contact me at [kpegu003@fiu.edu](mailto:kpegu003@fiu.edu)
 * 🧠  I'm learning NextJS and Tailwind CSS
