@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science student | Software Engineering Intern @ Domus Care Solutions
 ---------------------------------------------
 
-I am an aspiring Software Developer current studying Computer Science at Florida International University.
+I am an aspiring Software Developer currently studying Computer Science at Florida International University.
 
 * 🌍  I'm based in Miami, Florida
 * 🖥️  See my portfolio at [khalilpeguero.netlify.app/](https://khalilpeguero.netlify.app/)
