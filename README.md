@@ -7,7 +7,7 @@ Computer Science student | Former SWE intern @ Domus Care Solutions
 I am an aspiring Software Developer currently studying Computer Science at Florida International University.
 
 * 🌍  I'm based in Miami, Florida
-* 🖥️  See my portfolio at [khalilpeguero.netlify.app/](https://khalilpeguero.netlify.app/)
+* 🖥️  See my portfolio at [khalilpeguero.me/portfolio](https://khalilpeguero.me/portfolio)
 * ✉️  You can contact me at [kpegu003@fiu.edu](mailto:kpegu003@fiu.edu)
 * 🧠  I'm learning NextJS and Tailwind CSS
 
