@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khalil Peguero
 ======================================================================================================================================
 
-Computer Science student | Former SWE intern @ Domus Care Solutions
+Computer Science student | SWE intern @ Sigma Lambda Beta Education Foundation
 ---------------------------------------------
 
-I am an aspiring Software Developer currently studying Computer Science at Florida International University.
+I am an aspiring Backend / AI Engineer currently studying Computer Science at Florida International University.
 
 * 🌍  I'm based in Miami, Florida
 * 🖥️  See my portfolio at [khalilpeguero.me/portfolio](http://khalilpeguero.me/portfolio)
 * ✉️  You can contact me at [kpegu003@fiu.edu](mailto:kpegu003@fiu.edu)
-* 🧠  I'm learning NextJS and Tailwind CSS
+* 🧠  I'm currently learning Go and AWS
 
 ### Skills
 
