@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khalil Peguero
 ======================================================================================================================================
 
-Computer Science student | SWE intern @ Sigma Lambda Beta Education Foundation
+Software Engineer | Agent Engineer Intern @ Swarms | ShellHacks 3rd Overall ’23, MLH Solana ’26 | CS @ FIU ’27
 ---------------------------------------------
 
 I am an aspiring Backend / AI Engineer currently studying Computer Science at Florida International University.
